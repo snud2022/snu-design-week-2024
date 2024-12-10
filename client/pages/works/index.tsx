@@ -16,6 +16,7 @@ import PCTitle from "components/pc-title";
 import _useWindowSize from "utils/useWindowSize";
 import Image from "next/image";
 import SearchAndInstagram from "components/search-and-instagram";
+import useSearchStore from "store/searchStore";
 
 const DATABASE_ID = CONFIGS.databaseId;
 
@@ -52,6 +53,12 @@ export default function CoursePage(props: PageProps) {
       setCourseName("");
     };
   }, [setCourseName]);
+
+  const setSearchText = useSearchStore((state) => state.setSearchText);
+
+  React.useLayoutEffect(() => {
+    setSearchText("");
+  }, [setSearchText]);
 
   // get a item from collection that item.value.parent_id is equal to the dbId
   const pageData = Object.values(collection).find((item: any) => {

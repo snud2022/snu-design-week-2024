@@ -1,7 +1,7 @@
 [
   {
     "name": "김의진",
-    "englishName": "",
+    "englishName": "Kim Euijin",
     "type": "industrial",
     "works": [
       {
@@ -16,7 +16,7 @@
   },
   {
     "name": "최예원",
-    "englishName": "",
+    "englishName": "Choi Yewon",
     "type": "industrial",
     "works": [
       {
@@ -29,11 +29,20 @@
       }
     ]
   },
-  null,
-  null,
+  {
+    "name": "조수민",
+    "englishName": "Cho Soomin",
+    "type": "industrial",
+    "works": [
+      {
+        "id": "14f2cfba780a807a93cfc5b8caf774e7",
+        "class": "space-design"
+      }
+    ]
+  },
   {
     "name": "이현규",
-    "englishName": "",
+    "englishName": "Lee Hyeongyu",
     "type": "industrial",
     "works": [
       {
@@ -48,7 +57,7 @@
   },
   {
     "name": "이지현",
-    "englishName": "",
+    "englishName": "Lee Jihyeon",
     "type": "industrial",
     "works": [
       {
@@ -63,7 +72,7 @@
   },
   {
     "name": "이세민",
-    "englishName": "",
+    "englishName": "Lee Semin",
     "type": "industrial",
     "works": [
       {
@@ -78,7 +87,7 @@
   },
   {
     "name": "이다겸",
-    "englishName": "",
+    "englishName": "Lee Dagyeom",
     "type": "industrial",
     "works": [
       {
@@ -93,7 +102,7 @@
   },
   {
     "name": "오지은",
-    "englishName": "",
+    "englishName": "Oh Jieun",
     "type": "industrial",
     "works": [
       {
@@ -108,7 +117,7 @@
   },
   {
     "name": "엄혜영",
-    "englishName": "",
+    "englishName": "Eom Hyeyoung",
     "type": "industrial",
     "works": [
       {
@@ -117,13 +126,13 @@
       },
       {
         "id": "14f2cfba780a80ca8401f6d35dd7e292",
-        "class": "brand-design"
+        "class": "living-design"
       }
     ]
   },
   {
     "name": "신예림",
-    "englishName": "",
+    "englishName": "Shin Yerim",
     "type": "industrial",
     "works": [
       {
@@ -134,7 +143,7 @@
   },
   {
     "name": "송산하",
-    "englishName": "",
+    "englishName": "Song Sanha",
     "type": "industrial",
     "works": [
       {
@@ -149,7 +158,7 @@
   },
   {
     "name": "송민아",
-    "englishName": "",
+    "englishName": "Song Mina",
     "type": "industrial",
     "works": [
       {
@@ -164,7 +173,7 @@
   },
   {
     "name": "봉준영",
-    "englishName": "",
+    "englishName": "Bong Junyeong",
     "type": "industrial",
     "works": [
       {
@@ -190,7 +199,7 @@
   },
   {
     "name": "김하은",
-    "englishName": "",
+    "englishName": "Kim Haeun",
     "type": "industrial",
     "works": [
       {
@@ -205,7 +214,7 @@
   },
   {
     "name": "김찬혁",
-    "englishName": "",
+    "englishName": "Kim Chanhyuk",
     "type": "industrial",
     "works": [
       {
@@ -220,7 +229,7 @@
   },
   {
     "name": "곽은아",
-    "englishName": "",
+    "englishName": "Kwak Eunah",
     "type": "visual",
     "works": [
       {
@@ -235,7 +244,7 @@
   },
   {
     "name": "황수지",
-    "englishName": "",
+    "englishName": "Hwang Soozi",
     "type": "visual",
     "works": [
       {
@@ -250,7 +259,7 @@
   },
   {
     "name": "최하림",
-    "englishName": "",
+    "englishName": "Choe Halim",
     "type": "visual",
     "works": [
       {
@@ -265,7 +274,7 @@
   },
   {
     "name": "최유림",
-    "englishName": "",
+    "englishName": "Choi Yoorim",
     "type": "visual",
     "works": [
       {
@@ -280,7 +289,7 @@
   },
   {
     "name": "진혜림",
-    "englishName": "",
+    "englishName": "Jin Haelim",
     "type": "visual",
     "works": [
       {
@@ -295,7 +304,7 @@
   },
   {
     "name": "주윤호",
-    "englishName": "",
+    "englishName": "Joo Yoonho",
     "type": "visual",
     "works": [
       {
@@ -310,7 +319,7 @@
   },
   {
     "name": "좌현승",
-    "englishName": "",
+    "englishName": "Jwa Hyeonseung",
     "type": "visual",
     "works": [
       {
@@ -325,7 +334,7 @@
   },
   {
     "name": "조윤지",
-    "englishName": "",
+    "englishName": "Cho Yunji",
     "type": "visual",
     "works": [
       {
@@ -340,7 +349,7 @@
   },
   {
     "name": "장동후",
-    "englishName": "",
+    "englishName": "Jang Donghu",
     "type": "visual",
     "works": [
       {
@@ -349,13 +358,13 @@
       },
       {
         "id": "14f2cfba780a80aa8adbc0496cd2929e",
-        "class": "visual-design"
+        "class": "graphic-design"
       }
     ]
   },
   {
     "name": "이하은",
-    "englishName": "",
+    "englishName": "Lee Haeun",
     "type": "visual",
     "works": [
       {
@@ -370,7 +379,7 @@
   },
   {
     "name": "이지온",
-    "englishName": "",
+    "englishName": "Lee Jion",
     "type": "visual",
     "works": [
       {
@@ -385,7 +394,7 @@
   },
   {
     "name": "이주영",
-    "englishName": "",
+    "englishName": "Lee Juyoung",
     "type": "visual",
     "works": [
       {
@@ -400,7 +409,7 @@
   },
   {
     "name": "이유진",
-    "englishName": "",
+    "englishName": "Lee Yujin",
     "type": "visual",
     "works": [
       {
@@ -415,7 +424,7 @@
   },
   {
     "name": "이소희",
-    "englishName": "",
+    "englishName": "Lee Sohee",
     "type": "visual",
     "works": [
       {
@@ -430,7 +439,7 @@
   },
   {
     "name": "염수연",
-    "englishName": "",
+    "englishName": "Yeom Sooyeon",
     "type": "visual",
     "works": [
       {
@@ -445,7 +454,7 @@
   },
   {
     "name": "양수연",
-    "englishName": "",
+    "englishName": "Yang Suyeon",
     "type": "visual",
     "works": [
       {
@@ -460,7 +469,7 @@
   },
   {
     "name": "안지민",
-    "englishName": "",
+    "englishName": "An Jimin",
     "type": "visual",
     "works": [
       {
@@ -475,7 +484,7 @@
   },
   {
     "name": "안유진",
-    "englishName": "",
+    "englishName": "An Yujin",
     "type": "visual",
     "works": [
       {
@@ -490,7 +499,7 @@
   },
   {
     "name": "신윤서",
-    "englishName": "",
+    "englishName": "Shin Yoonsuh",
     "type": "visual",
     "works": [
       {
@@ -499,13 +508,13 @@
       },
       {
         "id": "14f2cfba780a8022a149c582f07f7c46",
-        "class": "brand-design"
+        "class": "graphic-design"
       }
     ]
   },
   {
     "name": "송유진",
-    "englishName": "",
+    "englishName": "Song Yujin",
     "type": "visual",
     "works": [
       {
@@ -520,7 +529,7 @@
   },
   {
     "name": "송나윤",
-    "englishName": "",
+    "englishName": "Song Nayun",
     "type": "visual",
     "works": [
       {
@@ -535,7 +544,7 @@
   },
   {
     "name": "서유현",
-    "englishName": "",
+    "englishName": "Seo Youhyun",
     "type": "visual",
     "works": [
       {
@@ -550,7 +559,7 @@
   },
   {
     "name": "변선우",
-    "englishName": "",
+    "englishName": "Byun Sunwoo",
     "type": "visual",
     "works": [
       {
@@ -565,7 +574,7 @@
   },
   {
     "name": "박나영",
-    "englishName": "",
+    "englishName": "Park Nayoung",
     "type": "visual",
     "works": [
       {
@@ -580,7 +589,7 @@
   },
   {
     "name": "김지담",
-    "englishName": "",
+    "englishName": "Kim Jidam",
     "type": "visual",
     "works": [
       {
@@ -595,7 +604,7 @@
   },
   {
     "name": "김은주",
-    "englishName": "",
+    "englishName": "Kim Eunjoo",
     "type": "visual",
     "works": [
       {
@@ -610,7 +619,7 @@
   },
   {
     "name": "김시원",
-    "englishName": "",
+    "englishName": "Kim Siwon",
     "type": "visual",
     "works": [
       {
@@ -625,7 +634,7 @@
   },
   {
     "name": "김상엽",
-    "englishName": "",
+    "englishName": "Kim Sangyeop",
     "type": "visual",
     "works": [
       {
@@ -640,7 +649,7 @@
   },
   {
     "name": "조성호",
-    "englishName": "",
+    "englishName": "Cho Sungho",
     "type": "visual",
     "works": [
       {

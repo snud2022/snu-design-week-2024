@@ -70,7 +70,7 @@ const Landing: NextPage = () => {
                   {`SNU DESIGN WEEK\n2024\n애벌레 행동`}
                 </div>
                 <div className="text-secondary text-[12px] font-[500] leading-[18px] whitespace-pre-line tracking-[-0.12px]">
-                  {`2024.11.30.THU - 2024.12.05.TUE 10AM - 6PM\n1, GWANAK-RO, GWANAK-GU, SEOUL\n49, COLLEGE OF FINE ARTS, SEOUL NAT’L UNIVERSITY`}
+                  {`2024.11.28. - 2024.12.03. 10AM - 6PM\n1, GWANAK-RO, GWANAK-GU, SEOUL\n49, COLLEGE OF FINE ARTS, SEOUL NAT’L UNIVERSITY`}
                 </div>
               </div>
             </>}
