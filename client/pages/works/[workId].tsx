@@ -224,9 +224,9 @@ export default function WorkPage(
   function scrollTop() {
     if (topRef.current) {
       topRef.current.scrollIntoView();
-      // window.scrollTo({
-      //   top: topRef.current.offsetTop ,
-      // });
+      window.scrollTo({
+        top: topRef.current.offsetTop,
+      });
     }
   }
   React.useEffect(() => {
@@ -268,7 +268,7 @@ export default function WorkPage(
 
   const { theme } = resolveConfig(tailwindConfig);
 
-  const { y } = useWindowScroll();
+  const { y: scrollY } = useWindowScroll();
 
   function getOtherWorkId() {
     const propertyName = "다른 작품";
@@ -291,7 +291,9 @@ export default function WorkPage(
     return null;
   }
 
-  const isScrollStarted = y > 10;
+  const isScrollStarted = React.useMemo(() => {
+    scrollY > 10;
+  }, [scrollY]);
 
   const getBlockWithId = (id: string) => {
     return entireRecordMap?.block[id]?.value;
